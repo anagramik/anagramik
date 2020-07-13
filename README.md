@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My best man is https://github.com/Mihailo23/ he is a dedicated family man and when it comes to work he is an extremely versatile engineer with his primary expersite in JavaScript (he has been there since day 1!). During the time of first and the second decade of 2000s he has been related to some of the best startups outhere! Some of the names that had the pleasure of working or negotiating with such an individual are "Presta", Booking", "Yamba", "Helbiz", "Upwork" and many others.
+
+Jesi sila Kume majke mi :D
+
 <!--
 **anagramik/anagramik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
