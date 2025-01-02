@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi there! 👋
-
 I’m Aleksandar Radivojević, a passionate software engineer and open-source enthusiast. With a focus on elegant solutions, collaboration, and meaningful contributions, I aim to build tools and applications that make an impact.
 
 My Vision 🌟
