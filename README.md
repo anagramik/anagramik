@@ -5,13 +5,13 @@ I’m Aleksandar Radivojević, a passionate software engineer and open-source en
 My Vision 🌟
 
 I believe in the power of collaboration to shape the future of software. GitHub has been at the heart of this revolution, and I am inspired by its mission to empower developers everywhere. My goal is to contribute to this vision by:
-	•	Building features that streamline workflows for millions of developers.
-	•	Advocating for open-source best practices and community growth.
-	•	Tackling complex challenges with creativity and persistence.
+- Building features that streamline workflows for millions of developers.
+- Advocating for open-source best practices and community growth.
+- Tackling complex challenges with creativity and persistence.
 
 About Me 🛠️
-	•	🔭 Experience: “10+ years in backend development with a focus on scalable web applications.”
-	•	🌱 Skills: Proficient in PHP, JavaScript, HTML, CSS. I also enjoy diving into data structures and algorithms to improve my problem-solving skills.
+- 🔭 Experience: “11+ years in backend development with a focus on scalable web applications.”
+- 🌱 Skills: Proficient in PHP, JavaScript, HTML, CSS. I also enjoy diving into data structures and algorithms to improve my problem-solving skills.
 
 Let’s Build the Future Together 🚀
 
